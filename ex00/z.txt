@@ -1,0 +1,13 @@
+z.txt=Z
+?>cat z
+
+z=Z
+?>cat z
+
+
+
+
+
+
+
+
